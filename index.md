@@ -5,6 +5,7 @@
 
 - [черга книжок на почитати](pages/books.md)
 - [вузлики на пам'ять](pages/cheatsheets)
+- [memento](memento)
 
 # Загальне
 ## Основні принципи
