@@ -13,3 +13,6 @@ wget --mirror \
   --restrict-file-names=nocontrol \
   https://example.com
 ```
+
+## jenkins timezone
+is adjustable per user - anyone can set its own TZ to show times in.
