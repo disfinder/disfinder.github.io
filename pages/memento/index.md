@@ -1,10 +1,3 @@
-# Ідеї тестів патчів
-
-- Postcard from Paraguay  
-  відсилка до пісні Нопфлера
-
-- Дякуйте, м...лі, що я не бог!
-
-- RESCUE KIT/САЛО ТУТ
-- Прапор: КОЗАК
-- НЕХАЙ ЩАСТИТЬ
+# TOC
+- [useful english links](english.md)
+- [ідеї патчів для одягу](cloth_patch.md)
