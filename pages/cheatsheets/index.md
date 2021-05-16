@@ -1,6 +1,17 @@
 # Cheatsheets
 
-
+# VS Code
+## custom color titlebar
+```json
+{
+    "workbench.colorCustomizations": {
+        "titleBar.activeForeground": "#000",
+        "titleBar.inactiveForeground": "#000000CC",
+        "titleBar.activeBackground": "#F3DB04",
+        "titleBar.inactiveBackground": "#f3db04bd"
+        }
+}
+```
 # inbox
 
 ## wget grab the site
