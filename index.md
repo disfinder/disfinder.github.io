@@ -1,7 +1,9 @@
-This is an index/landing page V1.
+Лендінг сторінка V1.
+For english version [click here](en_US/index.md)
 
-Subpages you may want to see:
-- [Personal blog about life and everything](https://p.disfinder.com)
-- [Tech](https://blog.disfinder.com)
+Посилання:
+- [Блог, що раніше був Раніше на disfinder.com](https://blog.disfinder.com) переїхав на піддомен https://blog.disfinder.com
+- [Особистий блог про все підряд](https://p.disfinder.com) (теж на движку blogger, але із коментами на Discus)
+
 
 To be continued.
