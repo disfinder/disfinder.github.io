@@ -1,0 +1,48 @@
+baseURL: 'https://disfinder.com'
+languageCode: 'uk-ua'
+title: 'disfinder.com 🇺🇦'
+theme: hugo-book
+
+services:
+  disqus:
+    shortname: disfinder-com
+params:
+  BookDateFormat: "January 2, 2006"
+  BookRepo: https://github.com/disfinder/disfinder.github.io
+
+defaultContentLanguage: ua
+languages:
+  ua:
+    disabled: false
+    languageCode: "uk-UA"
+    languageDirection: ""
+    languageName: "🇺🇦Ukrainian"
+    # title: "Ukraine"
+    weight: 1
+    contentDir: content/ua
+  en:
+    disabled: false
+    languageCode: "en-US"
+    languageDirection: ""
+    languageName: "🇺🇸English"
+    title: "disfinder.com 🇺🇸"
+    weight: 2
+    contentDir: content/en
+
+menu:
+  after:
+    # - name: '----------------------------'
+    #   url: /
+    #   weight: 1
+    #   pre: ''
+    #   post: ''
+
+    - name: blog.disfinder.com
+      url: http://blog.disfinder.com
+      weight: 100
+      pre: ''
+      post: "<img src='/awesome-font/svgs/solid/external-link-alt.svg' style='height: 15px; width: 15px;'>"
+    - name: p.disfinder.com
+      url: http://p.disfinder.com
+      weight: 200
+      post: "<img src='/awesome-font/svgs/solid/external-link-alt.svg' style='height: 15px; width: 15px;'>"
