@@ -3,6 +3,7 @@ title: "disfinder's homepage"
 # bookComments: false
 # bookSearchExclude: false
 BookComments: false
+bookToc: false
 ---
 
 # Лендінг сторінка V2.0
