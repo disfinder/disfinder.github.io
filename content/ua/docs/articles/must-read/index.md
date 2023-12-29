@@ -19,7 +19,8 @@ weight: 1
 
 - [My favourite Git commit](https://dhwthompson.com/2019/my-favourite-git-commit)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
-- [How to Do Code Reviews Like a Human (Part One)](https://mtlynch.io/human-code-reviews-1/)
+- [How to Do Code Reviews Like a Human (Part One)](https://mtlynch.io/human-code-reviews-1/)  
+   and [part two](https://mtlynch.io/human-code-reviews-2/)
 - [Think Like (a) Git](http://think-like-a-git.net/)  
    та скопійований переклад [Думай как Git](https://blog.disfinder.com/2014/11/think-git.html)
 
