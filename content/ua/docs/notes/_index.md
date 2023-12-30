@@ -8,4 +8,11 @@ bookCollapseSection: true
 
 # bookComments: false
 # bookSearchExclude: false
+cascade:
+    -
+        bookComments: false
 ---
+
+# Збірка коротких нотаток
+
+{{< section >}}

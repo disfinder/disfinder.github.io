@@ -10,6 +10,8 @@ weight: 10
 date: 2018-12-23T01:46:12-05:00
 ---
 
+# rsync to exFat
+
 ```shell
 rsync -vrltD --progress --stats /source/a/ /dest/a
 ```
