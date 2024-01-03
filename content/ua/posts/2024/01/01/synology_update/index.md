@@ -9,7 +9,7 @@ tags:
     - updates
 ---
 
-## Lets the party started
+## Lets get the party started
 
 Як іще відсвяткувати новий рік, як не мажорним оновленням серверної ОС [домашнього сервера](https://p.disfinder.com/2019/12/nas.html)?
 <!--more-->
