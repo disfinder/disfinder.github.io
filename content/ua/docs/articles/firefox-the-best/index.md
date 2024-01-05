@@ -1,6 +1,6 @@
 ---
 title: "Why firefox is the best"
-weight: 10
+weight: 0040
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false

@@ -1,6 +1,6 @@
 ---
 title: "Awesome CLI tools"
-weight: 10
+weight: 0030
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
