@@ -39,3 +39,11 @@ NAME=hugo make note
 ```
 
 [source](https://discourse.gohugo.io/t/images-in-menus/6094/5)
+
+
+## scripts
+
+```shell
+# sort articles by weight
+grep -Hr weight . | sort -k 3 -t :
+```
