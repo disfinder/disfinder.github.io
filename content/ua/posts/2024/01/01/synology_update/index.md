@@ -7,6 +7,11 @@ tags:
     - nas
     - synology
     - updates
+    - plex
+    - syncthing
+    - ansible
+    - moments
+    - photos
 ---
 
 ## Lets get the party started
