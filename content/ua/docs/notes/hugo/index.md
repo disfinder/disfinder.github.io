@@ -1,5 +1,5 @@
 ---
-title: "Hugo"
+title: "Hugo cheatsheet"
 weight: 10
 # bookFlatSection: false
 # bookToc: true
@@ -9,8 +9,6 @@ weight: 10
 # bookSearchExclude: false
 date: 2023-12-28T16:22:45-05:00
 ---
-
-# Hugo cheatsheet
 
 ## Commands
 
@@ -26,7 +24,7 @@ hugo new content docs/notes/hugo/index.md
 NAME=hugo make note
 ```
 
-## Content formattign
+## Content formatting
 
 ### Images in menus
 
@@ -40,10 +38,24 @@ NAME=hugo make note
 
 [source](https://discourse.gohugo.io/t/images-in-menus/6094/5)
 
-
 ## scripts
 
 ```shell
 # sort articles by weight
 grep -Hr weight . | sort -k 3 -t :
+```
+
+## book theme
+
+### hints
+
+Hint shortcode can be used as hint/alerts/notification block.  
+There are 3 colors to choose: `info`, `warning` and `danger`.
+
+```tpl
+{{</* hint [info|warning|danger] */>}}
+**Markdown content**  
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
+stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
+{{</* /hint */>}}
 ```
