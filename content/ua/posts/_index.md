@@ -3,6 +3,6 @@ menu:
   after:
     name: blog
     weight: 300
-title: Блог на Hugo ->
+title: Блог на Hugo 📝 ->
 ---
 
