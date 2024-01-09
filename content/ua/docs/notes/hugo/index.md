@@ -38,16 +38,11 @@ NAME=hugo make note
 
 [source](https://discourse.gohugo.io/t/images-in-menus/6094/5)
 
-## scripts
+### book theme
 
-```shell
-# sort articles by weight
-grep -Hr weight . | sort -k 3 -t :
-```
+Notes about [current theme](https://themes.gohugo.io/themes/hugo-book/)
 
-## book theme
-
-### hints
+#### hints
 
 Hint shortcode can be used as hint/alerts/notification block.  
 There are 3 colors to choose: `info`, `warning` and `danger`.
@@ -59,3 +54,21 @@ Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 {{</* /hint */>}}
 ```
+
+## scripts
+
+```shell
+# sort articles by weight
+grep -Hr weight . | sort -k 3 -t :
+```
+
+## This site
+
+Notes to self about this site/blog
+
+### Tags vs categories
+
+Tags - as many as possible, cover anything related.
+Categories - curated list to distinct different directions, like "educational" vs "daily life"
+
+Would be nice to come up with some set of categories.

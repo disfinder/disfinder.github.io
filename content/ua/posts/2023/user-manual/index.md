@@ -3,6 +3,8 @@ title: "User Manual"
 date: 2023-12-30T02:15:18-05:00
 # bookComments: false
 # bookSearchExclude: false
+categories:
+    - diary
 tags:
     - articles
     - self

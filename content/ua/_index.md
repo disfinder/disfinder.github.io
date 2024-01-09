@@ -10,6 +10,16 @@ bookToc: false
 
 🇺🇸 For english version [click here](en/)
 
+### Навігація по цьому сайту
+
+- [статті](/docs/articles)
+- [записки](/docs/notes)
+- [блог](/posts)
+  - [категорії](/categories)
+    - [технічні дописи](/categories/technical/)
+    - [щоденник](/categories/technical/)
+  - [теги](/tags)
+
 ### Посилання
 
 - [Блог із disfinder.com](https://blog.disfinder.com) переїхав на піддомен: https://blog.disfinder.com і оновлюватися не буде

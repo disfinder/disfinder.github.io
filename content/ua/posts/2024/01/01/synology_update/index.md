@@ -3,6 +3,8 @@ title: "Оновлення Synology DSM 6 -> 7"
 date: 2024-01-01T03:06:32-05:00
 # bookComments: false
 # bookSearchExclude: false
+categories:
+    - technical
 tags:
     - nas
     - synology

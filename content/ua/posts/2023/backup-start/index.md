@@ -3,6 +3,8 @@ title: "Мої бекапи: початок"
 date: 2023-12-28T17:21:06-05:00
 # bookComments: false
 # bookSearchExclude: false
+categories:
+    - technical
 tags:
     - backup
 ---

@@ -8,9 +8,13 @@ weight: 0030
 # bookComments: false
 # bookSearchExclude: false
 date: 2023-12-28T02:03:28-05:00
+categories:
+    - technical
+
 ---
 
 Список чудових CLI утиліт на кожен день
+<!--more-->
 
 | command       | What it is                             | brew name     | url                                       |
 | ------------- | -------------------------------------- | ------------- | ----------------------------------------- |

@@ -3,6 +3,8 @@ title: "Ще раз про Hugo"
 date: 2024-01-03T03:00:20-05:00
 # bookComments: false
 # bookSearchExclude: false
+categories:
+    - diary
 tags:
     - self
     - blog

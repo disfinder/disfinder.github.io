@@ -1,6 +1,8 @@
 ---
 title: Ще один блог - Hugo
 date: 2023-12-27T22:40:02-05:00
+categories:
+    - diary
 tags:
     - self
     - blog

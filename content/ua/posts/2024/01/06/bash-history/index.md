@@ -3,12 +3,15 @@ title: "bash history: переписуємо історію"
 date: 2024-01-06T22:30:53-05:00
 # bookComments: false
 # bookSearchExclude: false
+categories:
+    - technical
 tags:
     - bash
     - shell
     - history
     - awk
     - sponge
+
 ---
 
 ## Проблема із баш історією
