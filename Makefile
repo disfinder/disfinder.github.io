@@ -6,7 +6,10 @@ note:
 	hugo new content docs/notes/$(NAME)/index.md
 
 article:
-	@test $(NAME) || ( echo "Please set NAME for note"; exit 1)
+	@test $(NAME) || ( echo "Please set NAME for article"; exit 1)
 	hugo new content docs/articles/$(NAME)/index.md
 
-.PHONY: server note article
+post:
+	@test $(NAME) || ( echo "Please set NAME for article"; exit 1)
+	hugo new content posts/$(shell date "+%Y/%m/%d")/$(NAME)/index.md
+.PHONY: server note article post
