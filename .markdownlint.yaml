@@ -1,2 +1,3 @@
-#"MD025": false
+MD025:
+  front_matter_title: "" # do not count HUGO front-matter "title" or any title as top level parameter
 MD013: false
