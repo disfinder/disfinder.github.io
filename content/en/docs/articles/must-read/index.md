@@ -11,7 +11,7 @@ weight: 1
 
 # Must read
 
-Something I've read myself and highly recommend for everyone to do.
+Things I've read myself and highly recommend for everyone to do.
 
 ## Articles
 
