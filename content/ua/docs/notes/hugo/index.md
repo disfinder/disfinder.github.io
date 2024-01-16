@@ -55,6 +55,11 @@ stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 {{</* /hint */>}}
 ```
 
+### headers
+
+Header #1 -  `#` goes to top-level title.  
+Front-matter title - to menu item name and browser window title
+
 ## scripts
 
 ```shell
