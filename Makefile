@@ -1,3 +1,5 @@
+.PHONY: server note article post show
+
 server:
 	hugo server
 
@@ -12,4 +14,6 @@ article:
 post:
 	@test $(NAME) || ( echo "Please set NAME for article"; exit 1)
 	hugo new content posts/$(shell date "+%Y/%m/%d")/$(NAME)/index.md
-.PHONY: server note article post
+
+show:
+	gh workflow view 80602993
