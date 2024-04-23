@@ -8,8 +8,7 @@ weight: 10
 # bookComments: false
 # bookSearchExclude: false
 date: {{ .Date }}
-categories:
-    - diary
+
 tags:
     - some
 ---
