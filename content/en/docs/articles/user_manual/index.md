@@ -96,7 +96,7 @@ However, I most probably will object if I believe I'm following best practices, 
 
 ### What I consider common sense
 
-- [the one and only data format is YYYY-MM-DD](perfect-date.png) (you'll agree with me when you try to sort lines/files in another format)
+- [the one and only data format is YYYY-MM-DD](/perfect-date.png) (you'll agree with me when you try to sort lines/files in another format)
 - splittint is much harder than joining (Cinderella was told to sort a pile of seeds and grains, an impossible task, but mixing them together was easy)
 - [Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.](https://www.goodreads.com/quotes/19905-perfection-is-achieved-not-when-there-is-nothing-more-to)
 
