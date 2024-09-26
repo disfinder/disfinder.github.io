@@ -42,7 +42,3 @@ menu:
       weight: 100
       pre: ''
       post: "<img src='/awesome-font/svgs/solid/external-link-alt.svg' style='height: 15px; width: 15px;'>"
-    - name: p.disfinder.com
-      url: http://p.disfinder.com
-      weight: 200
-      post: "<img src='/awesome-font/svgs/solid/external-link-alt.svg' style='height: 15px; width: 15px;'>"

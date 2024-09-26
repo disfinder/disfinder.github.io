@@ -23,7 +23,6 @@ bookToc: false
 ### Посилання
 
 - [Блог із disfinder.com](https://blog.disfinder.com) переїхав на піддомен: https://blog.disfinder.com і оновлюватися не буде
-- [Особистий блог про все підряд](https://p.disfinder.com) (теж на движку blogger, але із коментами на disqus)
 
 ### мікропроекти
 
