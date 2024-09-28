@@ -1,11 +1,13 @@
-
 ---
 title: "KDE"
 date: "2008-02-17T19:10:00.001Z"
 categories:
-    - blog
+    - diary
 tags:
     - imported
+    - r:eviewed
+    - kde
+    - freebsd
 ---
 
 собирать сабж из портов было не самым оптимальным решением...  
