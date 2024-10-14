@@ -1,0 +1,15 @@
+{{ $fakestatic := .Site.GetPage "page" "static/img/index.md" }}
+{{ $imagename := printf "images/%s*" (.Get 0) }}
+{{ $size := .Get 1 }}
+{{ $imageoriginal := $fakestatic.Resources.GetMatch $imagename }}
+{{ $imagethumbnail := $imageoriginal.Resize $size }}
+<figure>
+  <a href="{{ $imageoriginal.RelPermalink}}">
+    <img src="{{ $imagethumbnail.RelPermalink }}">
+  </a>
+  <figcaption>
+    {{ with .Inner }}
+    {{ . }}
+    {{ end }}
+  </figcaption>
+</figure>
