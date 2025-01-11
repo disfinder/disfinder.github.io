@@ -67,3 +67,22 @@ date: 2024-01-06T21:20:06-05:00
 ### Керамбіт "Відьма" від "Blade Brothers Knives"
 
 [Допис про відьму](/posts/2024/11/09/witch/)
+
+### Гітари
+
+{{< img-thumb-cap "toys/guitars/two-001.png" "200x" >}}{{</ img-thumb-cap >}}
+
+#### Гіта
+
+Акустична Yamaha FG800
+{{< img-thumb-cap "toys/guitars/fg800.png" "200x" >}}{{</ img-thumb-cap >}}
+
+#### Зіта
+
+Класична Yamaha C40
+{{< img-thumb-cap "toys/guitars/c40.png" "200x" >}}{{</ img-thumb-cap >}}
+
+#### Для маленьких ігрунів
+
+Yamaha Guitalele GL1
+{{< img-thumb-cap "toys/guitars/g1.png" "200x" >}}{{</ img-thumb-cap >}}
