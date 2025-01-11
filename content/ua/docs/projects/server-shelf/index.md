@@ -10,8 +10,17 @@ weight: 0060
 date: 2024-04-22T19:54:51-04:00
 
 tags:
-    - some
+    - verter
+    - rack
+categories:
+    - projects
 ---
+|||
+| --- | ---- |
+|Status|❌Cancelled|
+
+## Have you met ~~Ted~~ Verter ?
+
 Саме шкаф, не шафа - бо він хлопчик.
 <!--more-->
 Позаяк [нещодавно я купив серверну стійку](/posts/2024/04/17/server-rack/), то наступними кроками буде:
@@ -26,3 +35,17 @@ tags:
 На щастя, у мене у гаражі завалявся лист товстої фанери - можна порізати його на полички, і прикрутити уголками до шассі.
 
 Бачив у продажі ще [існують такі вставки у стійку](https://navepoint.com/navepoint-4u-rack-mount-drawer-with-lock-and-key/), які по суті є шафками із ключем. Можливо за нормальної ціни варто і придбати.
+
+## Як все починалося
+
+![Verter-01](image.png)
+![Verter-02](image-1.png)
+
+## Як все закінчилося
+
+![Розкручений](image-2.png)
+![Розпиляний](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![Похований](image-7.png)
