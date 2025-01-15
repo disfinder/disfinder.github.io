@@ -5,7 +5,7 @@ weight: 0090
 # bookToc: true
 # bookHidden: false
 # bookCollapseSection: false
-# bookComments: false
+bookComments: true
 # bookSearchExclude: false
 date: 2025-01-14T21:20:06-05:00
 ---
