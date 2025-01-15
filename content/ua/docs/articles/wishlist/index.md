@@ -1,6 +1,6 @@
 ---
 title: "Wishlist"
-weight: 10
+weight: 0070
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
