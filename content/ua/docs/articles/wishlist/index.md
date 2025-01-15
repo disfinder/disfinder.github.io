@@ -18,4 +18,4 @@ date: 2024-03-27T03:33:52-04:00
 - [ ] Мотошолом
 - [ ] [Футболку Думи мої, думи](https://barricade.shop/products/doomy-moyi-doomi?variant=31859238141994)
 - [ ] apple watch
-- [ ] airpods
+- [x] airpods (і ще і airpods pro)
