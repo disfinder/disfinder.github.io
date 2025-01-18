@@ -38,6 +38,10 @@ date: 2024-01-06T21:20:06-05:00
 Штука затискати проводки, аби їх спаяти. Така собі альтернатива "третьої руки".
 {{< img-thumb-cap "tools/welding_pliers.png" "200x" >}}{{</ img-thumb-cap >}}
 
+### Dewalt drill & impact driver
+
+{{< img-thumb-cap "tools/dewalt-drills.png" "200x" >}}{{</ img-thumb-cap >}}
+
 ## Кемпінг
 
 Взагалі у [статей про кемпінг є свій тег](/tags/camping/).
