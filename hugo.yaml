@@ -20,6 +20,11 @@ languages:
     # title: "Ukraine"
     weight: 1
     contentDir: content/ua
+  ru:
+    contentDir: content/ru
+    weight: 3
+    languageName: "rUꞨꞨIAN"
+
   en:
     disabled: false
     languageCode: "en-US"
@@ -37,8 +42,8 @@ menu:
     #   pre: ''
     #   post: ''
 
-    - name: blog.disfinder.com
-      url: http://blog.disfinder.com
+    - name: blog@disfinder.com
+      url: /posts
       weight: 100
       pre: ''
       post: "<img src='/awesome-font/svgs/solid/external-link-alt.svg' style='height: 15px; width: 15px;'>"
