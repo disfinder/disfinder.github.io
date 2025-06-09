@@ -8,6 +8,7 @@ tags:
     - 3DPrint
     - nas
     - storage
+    - flood
 ---
 Я дуже вчасно перемістив сервери.
 <!--more-->
