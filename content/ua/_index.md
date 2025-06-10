@@ -11,7 +11,8 @@ bookToc: false
 🇺🇸 For english version [click here](en/)
 
 ### Навігація по цьому сайту
-
+- [Блог на Hugo 📝](/posts)
+----
 - [статті](/docs/articles)
 - [записки](/docs/notes)
 - [блог](/posts)
