@@ -3,6 +3,7 @@ title: "Вєчная ігла для прімуса - купувати чи ні
 date: "2017-04-21T21:18:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

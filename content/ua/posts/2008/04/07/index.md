@@ -3,6 +3,7 @@ title: "Flash"
 date: "2008-04-07T19:02:00.004Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

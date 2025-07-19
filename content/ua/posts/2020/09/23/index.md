@@ -3,6 +3,7 @@ title: "Альтернатива багаттю"
 date: "2020-09-23T16:00:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

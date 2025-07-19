@@ -3,6 +3,7 @@ title: "Книжки"
 date: "2020-02-08T04:24:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

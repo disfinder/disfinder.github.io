@@ -3,6 +3,7 @@ title: "Місця багато не буває"
 date: "2020-06-15T12:00:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

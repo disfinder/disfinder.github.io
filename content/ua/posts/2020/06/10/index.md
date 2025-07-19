@@ -4,6 +4,7 @@ date: "2020-06-10T12:00:00Z"
 draft: true
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

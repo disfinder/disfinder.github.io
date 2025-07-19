@@ -1,7 +1,9 @@
 ---
 title: "Увеличение подкачки"
 date: "2008-08-14T19:06:00.001Z"
-categories: []
+categories:
+    - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

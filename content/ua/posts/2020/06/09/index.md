@@ -3,6 +3,7 @@ title: "Алкоголь повертається!"
 date: "2020-06-09T12:00:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

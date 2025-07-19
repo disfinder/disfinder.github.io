@@ -3,6 +3,7 @@ title: "Апгрейд робочоЇ машинки"
 date: "2011-06-07T12:10:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

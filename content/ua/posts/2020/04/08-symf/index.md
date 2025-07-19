@@ -3,6 +3,7 @@ title: "Покусаний Symfonisk'ом"
 date: "2020-04-08T11:08:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

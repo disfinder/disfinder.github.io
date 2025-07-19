@@ -3,6 +3,7 @@ title: "Є час розкидати пилюку, і є час смоктати
 date: "2020-05-08T12:00:00.002Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

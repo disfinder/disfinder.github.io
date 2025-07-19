@@ -3,6 +3,7 @@ title: "Апгрейд приставки"
 date: "2020-12-01T17:00:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

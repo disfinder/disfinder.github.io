@@ -3,6 +3,7 @@ title: "про френдів"
 date: "2018-06-05T21:49:00.002Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

@@ -3,6 +3,7 @@ title: "Чорна П'ятниця"
 date: "2020-11-25T20:17:00.003Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

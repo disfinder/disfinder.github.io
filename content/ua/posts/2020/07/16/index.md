@@ -3,6 +3,7 @@ title: "Теорія великих знижок"
 date: "2020-07-16T05:08:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

@@ -3,6 +3,7 @@ title: "інтернетне"
 date: "2017-10-12T10:21:00.003Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

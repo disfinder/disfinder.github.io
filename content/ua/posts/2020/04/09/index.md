@@ -3,6 +3,7 @@ title: "Поширення зарази"
 date: "2020-04-09T07:00:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

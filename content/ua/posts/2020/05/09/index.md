@@ -3,6 +3,7 @@ title: "And one ring to rule them all!"
 date: "2020-05-09T13:00:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

@@ -3,6 +3,7 @@ title: "барахольне барахло"
 date: "2018-07-20T15:02:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

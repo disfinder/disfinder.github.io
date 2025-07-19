@@ -3,6 +3,7 @@ title: "Зусилля і результат"
 date: "2018-03-17T17:57:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

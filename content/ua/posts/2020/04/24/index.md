@@ -3,6 +3,7 @@ title: "Playstation і FPS шутери"
 date: "2020-04-24T21:18:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

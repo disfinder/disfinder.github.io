@@ -3,6 +3,7 @@ title: "Лопата!"
 date: "2021-01-26T16:00:00.003Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

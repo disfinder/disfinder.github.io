@@ -3,6 +3,7 @@ title: "трампів твітер"
 date: "2021-01-09T03:34:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

@@ -3,6 +3,7 @@ title: "п'ятнадцять зарядок на одну розетку... й�
 date: "2020-05-13T12:00:00.003Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

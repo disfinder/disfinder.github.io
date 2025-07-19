@@ -3,6 +3,7 @@ title: "Магія ремонтування без ремонтування."
 date: "2020-10-10T16:00:00.002Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

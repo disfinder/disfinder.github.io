@@ -3,6 +3,7 @@ title: "А у нас в квартирі NAS"
 date: "2019-12-04T04:32:00.003Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

@@ -3,6 +3,7 @@ title: "ssh"
 date: "2008-02-13T19:21:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

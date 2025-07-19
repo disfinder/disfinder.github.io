@@ -3,6 +3,7 @@ title: "NAT"
 date: "2008-02-15T14:58:00.002Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

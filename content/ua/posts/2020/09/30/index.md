@@ -3,6 +3,7 @@ title: "Нове - трошки підремонтоване старе"
 date: "2020-09-30T16:00:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

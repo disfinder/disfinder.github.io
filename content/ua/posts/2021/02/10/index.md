@@ -3,6 +3,7 @@ title: "Практика струн: потрібен повтор"
 date: "2021-02-10T05:30:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

@@ -3,6 +3,7 @@ title: "Удар планшетом по бєздоріжжю та розгіл�
 date: "2021-10-02T07:08:00.002Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

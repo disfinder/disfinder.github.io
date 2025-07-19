@@ -3,6 +3,7 @@ title: "Відпустка та Андроїд"
 date: "2011-08-02T10:55:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

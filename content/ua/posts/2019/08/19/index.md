@@ -3,6 +3,7 @@ title: "Еволюція EDC. Частина 1."
 date: "2019-08-19T23:00:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

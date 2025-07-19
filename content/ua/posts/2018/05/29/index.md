@@ -3,6 +3,7 @@ title: "Імущєство должно бить льогкім...."
 date: "2018-05-29T11:41:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

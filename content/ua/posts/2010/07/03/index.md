@@ -1,7 +1,9 @@
 ---
 title: "Что нужно поставить после установки Linux Mint"
 date: "2010-07-03T23:04:00.003Z"
-categories: []
+categories:
+    - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

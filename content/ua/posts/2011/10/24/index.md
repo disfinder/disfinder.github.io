@@ -3,6 +3,7 @@ title: "NAS або неттоп?"
 date: "2011-10-24T21:02:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - hardware

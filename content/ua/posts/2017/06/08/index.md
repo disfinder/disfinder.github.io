@@ -3,6 +3,7 @@ title: "замітки"
 date: "2017-06-08T15:10:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

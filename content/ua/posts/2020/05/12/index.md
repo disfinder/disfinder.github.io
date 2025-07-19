@@ -3,6 +3,7 @@ title: "Електрифікація триває (сподіваюся, зав�
 date: "2020-05-12T12:00:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

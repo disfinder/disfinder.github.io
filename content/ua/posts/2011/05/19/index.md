@@ -3,6 +3,7 @@ title: "Firefox"
 date: "2011-05-19T14:17:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

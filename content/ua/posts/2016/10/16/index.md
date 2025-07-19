@@ -3,6 +3,7 @@ title: "ITIL from scratch"
 date: "2016-10-16T08:39:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

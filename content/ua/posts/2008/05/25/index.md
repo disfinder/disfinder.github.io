@@ -1,7 +1,9 @@
 ---
 title: "Скрипки - справа, барабаны - слева."
 date: "2008-05-25T06:20:00.001Z"
-categories: []
+categories:
+    - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

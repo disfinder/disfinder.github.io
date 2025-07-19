@@ -3,6 +3,7 @@ title: "nooker"
 date: "2015-03-15T13:23:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - nook

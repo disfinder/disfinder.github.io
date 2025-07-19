@@ -3,6 +3,7 @@ title: "переїзд"
 date: "2011-01-05T10:25:00.003Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

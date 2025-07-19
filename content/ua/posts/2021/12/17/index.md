@@ -3,6 +3,7 @@ title: "Готувались сані влітку"
 date: "2021-12-17T06:33:00.003Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

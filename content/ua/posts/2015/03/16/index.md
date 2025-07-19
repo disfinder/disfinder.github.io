@@ -3,6 +3,7 @@ title: "winbash"
 date: "2015-03-16T13:25:00.002Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

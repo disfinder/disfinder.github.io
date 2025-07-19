@@ -3,6 +3,7 @@ title: "дякую, що не переключались )"
 date: "2024-01-05T09:09:00.002Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

@@ -3,6 +3,7 @@ title: "Краще сокира в руці, аніж дуля в кишені"
 date: "2020-09-04T17:00:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

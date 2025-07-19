@@ -3,6 +3,7 @@ title: "Фартушок для бороданів"
 date: "2020-04-14T12:00:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

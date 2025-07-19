@@ -3,6 +3,7 @@ title: "SAM4"
 date: "2020-10-07T16:00:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

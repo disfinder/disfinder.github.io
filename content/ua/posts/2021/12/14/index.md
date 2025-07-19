@@ -3,6 +3,7 @@ title: "Статті в гіт"
 date: "2021-12-14T05:02:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

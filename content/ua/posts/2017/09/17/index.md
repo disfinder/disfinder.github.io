@@ -3,6 +3,7 @@ title: "перепічка"
 date: "2017-09-17T15:00:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

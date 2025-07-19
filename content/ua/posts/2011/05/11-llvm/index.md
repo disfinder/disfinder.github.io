@@ -3,6 +3,7 @@ title: " LVM і репозиторії"
 date: "2011-05-11T22:02:00.002Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

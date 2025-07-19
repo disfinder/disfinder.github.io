@@ -3,6 +3,7 @@ title: "на чому писати статті?"
 date: "2023-12-26T04:27:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

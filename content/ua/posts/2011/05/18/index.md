@@ -3,6 +3,7 @@ title: "повільно, але (сподіваюсь) вірно"
 date: "2011-05-18T13:18:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

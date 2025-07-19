@@ -3,6 +3,7 @@ title: "Лічилочка"
 date: "2020-04-13T11:00:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

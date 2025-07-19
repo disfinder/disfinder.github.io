@@ -3,6 +3,7 @@ title: "Задачи и вопросы"
 date: "2008-02-10T19:47:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

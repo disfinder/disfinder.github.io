@@ -3,6 +3,7 @@ title: "Консоль в X"
 date: "2008-04-05T00:03:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

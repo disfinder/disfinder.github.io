@@ -3,6 +3,7 @@ title: "Пошук місця для свіча"
 date: "2020-05-16T12:00:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

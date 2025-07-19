@@ -3,6 +3,7 @@ title: "Блютусові страждання"
 date: "2011-10-23T00:24:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

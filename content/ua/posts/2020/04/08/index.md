@@ -3,6 +3,7 @@ title: "[технічне] Коменти "
 date: "2020-04-08T03:08:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

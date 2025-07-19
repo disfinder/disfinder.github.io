@@ -3,6 +3,7 @@ title: "Передноворічна ікра"
 date: "2017-12-18T10:38:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

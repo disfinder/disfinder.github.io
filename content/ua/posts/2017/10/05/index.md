@@ -3,6 +3,7 @@ title: "re:kodi again "
 date: "2017-10-05T10:57:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

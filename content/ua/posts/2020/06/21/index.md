@@ -3,6 +3,7 @@ title: "mikrotik"
 date: "2020-06-21T12:30:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

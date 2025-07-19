@@ -3,6 +3,7 @@ title: "Дні Канади, завершення."
 date: "2021-02-21T17:00:00.007Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

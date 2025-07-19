@@ -3,6 +3,7 @@ title: "скайп"
 date: "2017-06-20T14:21:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

@@ -3,6 +3,7 @@ title: "inoreader"
 date: "2017-10-27T10:36:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

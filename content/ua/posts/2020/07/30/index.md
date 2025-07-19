@@ -3,6 +3,7 @@ title: "Маленька чистка"
 date: "2020-07-30T20:07:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

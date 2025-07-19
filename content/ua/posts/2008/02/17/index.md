@@ -3,6 +3,7 @@ title: "KDE"
 date: "2008-02-17T19:10:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

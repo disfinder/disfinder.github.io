@@ -3,6 +3,7 @@ title: "Need more fan!"
 date: "2020-06-08T12:00:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

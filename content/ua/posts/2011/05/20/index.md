@@ -3,6 +3,7 @@ title: "Disqus"
 date: "2011-05-20T10:49:00.002Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

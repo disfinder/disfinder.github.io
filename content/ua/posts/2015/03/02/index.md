@@ -3,6 +3,7 @@ title: "nook"
 date: "2015-03-02T16:36:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

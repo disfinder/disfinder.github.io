@@ -3,6 +3,7 @@ title: "Фірмові викруточки"
 date: "2020-08-19T16:30:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

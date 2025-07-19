@@ -3,6 +3,7 @@ title: "Білла мене...."
 date: "2018-06-17T20:05:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

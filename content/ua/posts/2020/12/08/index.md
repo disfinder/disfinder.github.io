@@ -3,6 +3,7 @@ title: "Годинник 2020: перший"
 date: "2020-12-08T17:00:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

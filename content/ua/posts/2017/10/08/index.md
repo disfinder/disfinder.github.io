@@ -3,6 +3,7 @@ title: "Закриття сезону - Новий рік"
 date: "2017-10-08T18:16:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

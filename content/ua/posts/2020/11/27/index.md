@@ -3,6 +3,7 @@ title: '"Горє от ума" або "В пошуках розєтки-ПеТе
 date: "2020-11-27T16:00:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

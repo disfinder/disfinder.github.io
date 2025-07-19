@@ -3,6 +3,7 @@ title: "Соціальний карантин і наслідки"
 date: "2020-04-15T12:00:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

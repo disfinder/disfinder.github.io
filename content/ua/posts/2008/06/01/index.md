@@ -1,7 +1,9 @@
 ---
 title: ""
 date: "2008-06-01T12:28:00Z"
-categories: []
+categories:
+    - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

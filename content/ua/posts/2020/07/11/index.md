@@ -3,6 +3,7 @@ title: "Практика струн"
 date: "2020-07-11T19:58:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

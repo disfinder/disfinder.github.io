@@ -3,6 +3,7 @@ title: "Переїзд 2"
 date: "2011-05-10T11:06:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

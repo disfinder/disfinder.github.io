@@ -3,6 +3,7 @@ title: "Медіацентр: Zentyal - коротко про погане"
 date: "2012-01-23T10:54:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

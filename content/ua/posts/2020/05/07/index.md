@@ -3,6 +3,7 @@ title: "Альо, эта прачічная?"
 date: "2020-05-07T10:00:00.002Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

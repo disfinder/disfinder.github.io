@@ -3,6 +3,7 @@ title: ""
 date: "2020-04-30T12:30:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

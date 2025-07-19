@@ -3,6 +3,7 @@ title: "Dia, альтернатива MS Visio для Linux&Windows"
 date: "2008-02-24T13:27:00.002Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

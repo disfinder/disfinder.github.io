@@ -3,6 +3,7 @@ title: "2 pixel 2"
 date: "2020-04-16T12:00:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

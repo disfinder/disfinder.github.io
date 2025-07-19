@@ -3,6 +3,7 @@ title: "Флешечки"
 date: "2020-12-05T17:00:00.002Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - shopping

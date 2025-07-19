@@ -3,6 +3,7 @@ title: "Програмісти 1С такі програмісти"
 date: "2011-07-20T08:09:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - 1c

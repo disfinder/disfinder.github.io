@@ -3,6 +3,7 @@ title: "Живитися потрібно безперебійно"
 date: "2020-05-10T13:00:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

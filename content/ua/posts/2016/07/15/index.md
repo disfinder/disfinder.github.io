@@ -3,6 +3,7 @@ title: "docker"
 date: "2016-07-15T18:24:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

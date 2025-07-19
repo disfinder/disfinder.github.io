@@ -3,6 +3,7 @@ title: "Synology повертається"
 date: "2021-02-25T03:54:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

@@ -3,6 +3,7 @@ title: "Дроп ЖЖ"
 date: "2017-04-18T21:21:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

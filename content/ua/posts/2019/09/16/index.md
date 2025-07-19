@@ -3,6 +3,7 @@ title: "Еволюція EDC. Частина 3. Фінал"
 date: "2019-09-16T15:57:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

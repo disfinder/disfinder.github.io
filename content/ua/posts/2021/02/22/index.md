@@ -3,6 +3,7 @@ title: "крах домашнього сервера"
 date: "2021-02-22T18:00:00.001Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

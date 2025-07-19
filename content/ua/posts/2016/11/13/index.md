@@ -3,6 +3,7 @@ title: "Шахи"
 date: "2016-11-13T23:23:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed

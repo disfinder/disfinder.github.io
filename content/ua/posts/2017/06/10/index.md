@@ -3,6 +3,7 @@ title: "рюкзак"
 date: "2017-06-10T14:24:00Z"
 categories:
     - diary
+    - p.disfinder.com
 tags:
     - imported
     - r:eviewed
