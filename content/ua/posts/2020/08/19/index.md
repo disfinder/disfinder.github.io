@@ -9,7 +9,6 @@ tags:
     - r:eviewed
     - hardware
     - screwdriver
-    - debug3
 ---
 
 А кому прийшли ось такі няшні китайські викруточки - той я![![](thumb_00.jpg)](img00.jpg)  
