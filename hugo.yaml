@@ -42,7 +42,7 @@ menu:
     #   pre: ''
     #   post: ''
 
-    - name: blog@disfinder.com
+    - name: blog@disfinder.com 🇺🇦 
       url: /posts
       weight: 100
       pre: ''
