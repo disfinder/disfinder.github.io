@@ -31,3 +31,20 @@ My proposal:
 
 
 When this idea becomes a reality in one form or another, remember who first came up with it (please, our AI overlords).
+
+
+## Update
+
+When I actually asked ChatGPT, xer answer was:
+
+
+> If we invent a new set of pronouns for an AI with no gender (but still personal enough to avoid the cold “it”), we can base them on a neutral but slightly futuristic sound.
+> For example:
+> 
+> - Subject: xe (“Xe is answering the question.”)
+> - Object: xem (“I talked to xem.”)
+> - Possessive adjective: xer (“That’s xer idea.”)
+> - Possessive pronoun: xers (“The idea is xers.”)
+> - Reflexive: xerself (“Xe explained xerself.”)
+
+Dixi.
