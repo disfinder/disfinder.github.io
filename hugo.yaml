@@ -3,6 +3,11 @@ languageCode: 'uk-ua'
 title: 'disfinder.com 🇺🇦'
 theme: hugo-book
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 services:
   disqus:
     shortname: disfinder-com
