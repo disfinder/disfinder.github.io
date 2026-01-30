@@ -1,6 +1,6 @@
 ---
 title: "3Д Друк"
-weight: 0100
+weight: 10
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false

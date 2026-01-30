@@ -1,6 +1,6 @@
 ---
 title: "Мої компʼютери"
-weight: 0090
+weight: 20
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
