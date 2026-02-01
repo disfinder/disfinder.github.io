@@ -40,15 +40,15 @@ languages:
     contentDir: content/en
 
 menu:
-  after:
+  after: []
     # - name: '----------------------------'
     #   url: /
     #   weight: 1
     #   pre: ''
     #   post: ''
 
-    - name: blog@disfinder.com 🇺🇦 
-      url: /posts
-      weight: 100
-      pre: ''
-      post: "<img src='/awesome-font/svgs/solid/external-link-alt.svg' style='height: 15px; width: 15px;'>"
+    # - name: blog@disfinder.com 🇺🇦
+    #   url: /posts
+    #   weight: 100
+    #   pre: ''
+    #   post: "<img src='/awesome-font/svgs/solid/external-link-alt.svg' style='height: 15px; width: 15px;'>"
