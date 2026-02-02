@@ -1,6 +1,6 @@
 ---
 title: "Obsidian як каталог"
-weight: 0080
+weight: 80
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
