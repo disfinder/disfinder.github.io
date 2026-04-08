@@ -1,5 +1,8 @@
 .PHONY: server note article post show
 
+# Allow overriding the date from the command line: `make post DATE=2026/04/07 NAME=...`
+DATE ?= $(shell date "+%Y/%m/%d")
+
 server:
 	hugo server
 
@@ -13,8 +16,8 @@ article:
 
 post:
 	@test $(NAME) || ( echo "Please set NAME for article"; exit 1)
-	hugo new content content/en/posts/$(shell date "+%Y/%m/%d")/$(NAME)/index.md
-	hugo new content posts/$(shell date "+%Y/%m/%d")/$(NAME)/index.md
+	hugo new content content/en/posts/$(DATE)/$(NAME)/index.md
+	hugo new content posts/$(DATE)/$(NAME)/index.md
 #	hugo new content posts/$(shell date "+%Y/%m/%d")/$(NAME)/index.md --editor code
 show:
 	gh workflow view 80602993
