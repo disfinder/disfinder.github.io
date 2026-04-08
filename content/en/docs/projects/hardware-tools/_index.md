@@ -26,7 +26,7 @@ Snagged on sale — a 5 amp-hour powerbank that charges from a wall outlet.
 
 Bought on AliExpress — a handle and a set of bits in a metal case.
 {{< img-thumb-cap "tools/wiha_screwdriver.png" "200x" >}}{{</ img-thumb-cap >}}
-[Post](/posts/2020/08/19/)
+[Post](/en/posts/2020/08/19/)
 
 ### Calipers
 
@@ -48,29 +48,29 @@ There is a dedicated [tag for camping articles](/tags/camping/).
 
 ### Shovel
 
-[Separate post](/posts/2021/01/26/)
+[Separate post](/en/posts/2021/01/26/)
 
 ### First Axe
 
-[Post about the axe](/posts/2020/09/04/)
+[Post about the axe](/en/posts/2020/09/04/)
 
 ### Second Axe
 
-[Another post about the axe](/posts/2021/01/18/)
+[Another post about the axe](/en/posts/2021/01/18/)
 
 ### Handsaw
 
-[Post about the handsaw](/posts/2020/12/12/)
+[Post about the handsaw](/en/posts/2020/12/12/)
 
 ### Gas Micro Stove
 
-[Post about the stove](/posts/2020/09/23/)
+[Post about the stove](/en/posts/2020/09/23/)
 
 ## Toys
 
 ### Karambit "Witch" by "Blade Brothers Knives"
 
-[Post about the witch](/posts/2024/11/09/witch/)
+[Post about the witch](/en/posts/2024/11/09/witch/)
 
 ### Guitars
 

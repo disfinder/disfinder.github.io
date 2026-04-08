@@ -31,7 +31,7 @@ And of course I immediately went for the combo — with AMS, the ability to prin
 {{< img-thumb-cap "3d_printers/eva/unboxing-00.png" "200x" >}}Unboxing{{</ img-thumb-cap >}}
 {{< img-thumb-cap "3d_printers/eva/unboxing-01.png" "200x" >}}{{</ img-thumb-cap >}}
 
-And of course, EVE handled with ease what [Wall-E couldn't manage](/posts/2024/03/13/started-going/#how-its-started)
+And of course, EVE handled with ease what [Wall-E couldn't manage](/en/posts/2024/03/13/started-going/#how-its-started)
 {{< img-thumb-cap "3d_printers/eva/dyson-nozzle.png" "200x" >}}Dyson nozzle{{</ img-thumb-cap >}}
 And what it could manage — she handled five times faster.
 {{< img-thumb-cap "3d_printers/eva/propeller.png" "200x" >}}propeller{{</ img-thumb-cap >}}

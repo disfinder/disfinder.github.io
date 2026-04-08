@@ -21,7 +21,7 @@ As always — [no decent discounts on decent things](posts/2020/11/25/), but lik
 
 ## A Difficult and Unexpected Decision
 
-I had already added it to my cart and was hovering my finger over the "buy" button, but for some reason decided to read the reviews first. It's unclear why I even went there — it's Synology after all, [you know what to expect from them](/posts/2021/02/22/) — but one review caught my attention:
+I had already added it to my cart and was hovering my finger over the "buy" button, but for some reason decided to read the reviews first. It's unclear why I even went there — it's Synology after all, [you know what to expect from them](/en/posts/2021/02/22/) — but one review caught my attention:
 
 > Make Sure U really want it!
 > Real Review - For the Price your can just get a 4 bay Nas and have it in a different location. I wish i had did that, now im stuck with a 5 bay box that needs my 920+ to work..... just think i could have put that money into getting a second NAS

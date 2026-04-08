@@ -10,7 +10,7 @@ tags:
     - guitar
 ---
 
-Less than a year has passed (July to February: about 8 months) since [replacing the strings](/posts/2020/07/11) from "whatever was on there" to Yamaha NS 110. After half a year of light strumming, the brand-new strings already look like this:
+Less than a year has passed (July to February: about 8 months) since [replacing the strings](/en/posts/2020/07/11) from "whatever was on there" to Yamaha NS 110. After half a year of light strumming, the brand-new strings already look like this:
 <!--more-->
 
 [![strings](thumb_00.jpg)](img00.jpg)

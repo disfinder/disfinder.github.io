@@ -15,7 +15,7 @@ I moved the servers just in time.
 
 ## The Boiler Room
 
-Since [Werther couldn't find a place](/docs/projects/server-shelf/) in our home, I had to stash my junk in a pretty terrible spot: a small utility closet between the kitchen and the bathroom, which also happens to house a boiler on one side and an air conditioner on the other.
+Since [Werther couldn't find a place](/en/docs/projects/server-shelf/) in our home, I had to stash my junk in a pretty terrible spot: a small utility closet between the kitchen and the bathroom, which also happens to house a boiler on one side and an air conditioner on the other.
 
 The closet isn't meant for residents to access and was kept locked, but given the limited space I had to open it up and put it to use.
 

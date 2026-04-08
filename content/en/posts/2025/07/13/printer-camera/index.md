@@ -35,7 +35,7 @@ I say — but what if it's the cable? — Oh, dear sir, in that case please reop
 
 ## The Alternative
 
-I read the instructions, looked at the board, scratched the back of my head — and since I'd recently taken a step toward a "smart home" by [setting up a few sensors (and more importantly, a hub)](/posts/2025/06/11/smart-sensors/), I bought an external camera for $20 that not only streams 1080p instead of some sad excuse for a video, but also sees in the dark and delivers a decent FPS.
+I read the instructions, looked at the board, scratched the back of my head — and since I'd recently taken a step toward a "smart home" by [setting up a few sensors (and more importantly, a hub)](/en/posts/2025/06/11/smart-sensors/), I bought an external camera for $20 that not only streams 1080p instead of some sad excuse for a video, but also sees in the dark and delivers a decent FPS.
 
 ![camera](image-1.png)
 

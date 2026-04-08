@@ -11,7 +11,7 @@ tags:
 ---
 Our song is good and new, let's start it over.
 <!--more-->
-Not much time had passed since the [recent flooding](/posts/2025/05/05/flood/), and in less than two weeks (the 17th, while the leak started on the 5th) it became clear the problem was about to repeat itself.
+Not much time had passed since the [recent flooding](/en/posts/2025/05/05/flood/), and in less than two weeks (the 17th, while the leak started on the 5th) it became clear the problem was about to repeat itself.
 
 The same pipe had bent into an arc again, and although it was now held by larger double clamps — they were obviously doing a poor job.
 

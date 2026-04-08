@@ -10,7 +10,7 @@ tags:
     - cables
 ---
 
-And to answer the question, "why bother with [all that fuss](/posts/2020/05/09) with [extension cords](/posts/2020/05/12)" — the answer is: to get rid of (or rather prevent) constructions like these:
+And to answer the question, "why bother with [all that fuss](/en/posts/2020/05/09) with [extension cords](/en/posts/2020/05/12)" — the answer is: to get rid of (or rather prevent) constructions like these:
 <!--more-->
 [![](thumb_00.jpg)](img00.jpg)
 

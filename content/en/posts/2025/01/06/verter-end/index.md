@@ -29,7 +29,7 @@ As painful as it was (and as much as I regretted the money spent on the purchase
 
 ## Photos
 
-The sad photos are posted in the [project](/docs/projects/server-shelf/).
+The sad photos are posted in the [project](/en/docs/projects/server-shelf/).
 There's no video, but the sparks were practically like in the movies.
 
 Rest in peace, Werter. I hope they'll make something useful out of you — a bucket of nails — and you'll travel the world yet.

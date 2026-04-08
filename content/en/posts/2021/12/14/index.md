@@ -38,4 +38,4 @@ Inspired by an [old discussion](https://blog.tivasyk.info/blog/2021/01/09/server
 
 ## Update from 2024
 
-Unfortunately, Tivasyk's blog has since been abandoned by its author, and [the domain has been taken over by some Belarusian casino](/posts/2024/08/23/tivasyk-domain/); even the [local hosting](https://blog.malynka.duckdns.org/) is unreachable.
+Unfortunately, Tivasyk's blog has since been abandoned by its author, and [the domain has been taken over by some Belarusian casino](/en/posts/2024/08/23/tivasyk-domain/); even the [local hosting](https://blog.malynka.duckdns.org/) is unreachable.

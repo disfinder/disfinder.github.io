@@ -12,7 +12,7 @@ date: 2024-01-05T03:08:53-05:00
 
 Some favorite pics from [Monkey user](https://www.monkeyuser.com/)  
 
-The first one and still the best [is definitely this one](/docs/articles/monkey_user/#25-sep-2018-tech-debt). Framed it and showing to everyone.
+The first one and still the best [is definitely this one](/en/docs/articles/monkey_user/#25-sep-2018-tech-debt). Framed it and showing to everyone.
 
 ----
 

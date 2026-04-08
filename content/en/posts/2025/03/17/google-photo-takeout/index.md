@@ -30,7 +30,7 @@ Since Google's policies have long stopped suiting me (I really should write abou
 - they're not viewed as often as photos
 - and they're not as useful
 - they're backed up to Synology
-  - [x] need to update the [backup article](/docs/projects/backup/)
+  - [x] need to update the [backup article](/en/docs/projects/backup/)
 - they're also available in [Google Takeout](/tags/takeout/) archives
 
 ## Pitfalls
