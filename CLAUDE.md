@@ -31,6 +31,23 @@ done | wc -l
 - **DO** translate `title`, `description`, and other descriptive frontmatter fields
 - Translate the full body text (Ukrainian or Russian → English)
 - Preserve all markdown formatting, image references, links, and code blocks exactly
+- **Fix internal links** (see section below)
+
+### Internal link rules
+
+The site's `defaultContentLanguage` is `ua`. Links without a language prefix resolve to Ukrainian, so all internal links in `content/en/` files must use the `/en/` prefix.
+
+**Fix these patterns:**
+
+| Pattern in source | Correct in `content/en/` |
+|---|---|
+| `https://www.disfinder.com/path/` | `/en/path/` |
+| `/ua/path/` | `/en/path/` |
+| `/docs/path/` | `/en/docs/path/` |
+| `/posts/path/` | `/en/posts/path/` |
+| `/en/path/#%D0%...` (Ukrainian anchor) | `/en/path/` (strip anchor) |
+
+**External links** (to other domains, `p.disfinder.com`, Wikipedia, etc.) must NOT be changed.
 
 ### Subagent instructions template
 
@@ -45,6 +62,10 @@ Rules:
 - DO translate title, description, and other descriptive frontmatter fields
 - Translate the full body text
 - Preserve all markdown formatting, image references, links, and code blocks exactly
+- Fix internal links: absolute https://www.disfinder.com/path → /en/path,
+  /ua/path → /en/path, /docs/path → /en/docs/path, /posts/path → /en/posts/path,
+  strip Ukrainian URL-encoded anchors (#%D0%...) from internal links
+- Do NOT change external links (other domains, p.disfinder.com, etc.)
 ```
 
 ### Permissions

@@ -13,6 +13,6 @@ the redesign is complete, now filling it with content.
 
 The answer to "what to write articles in" has been found: Markdown it is, GitHub Pages it is.
 
-Collected a few articles: <https://www.disfinder.com/docs/articles/>
+Collected a few articles: [/en/docs/articles/](/en/docs/articles/)
 
-Also started another blog: [https://www.disfinder.com/posts/2023/hugo\-blog/](https://www.disfinder.com/posts/2023/hugo-blog/)
+Also started another blog: [/en/posts/2023/hugo-blog/](/en/posts/2023/hugo-blog/)

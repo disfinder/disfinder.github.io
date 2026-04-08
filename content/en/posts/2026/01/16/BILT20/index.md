@@ -31,7 +31,7 @@ But in this 2.0 system they add BILT Cash on top of the existing BILT Points and
 What?
 Go f*** yourself.
 
-A while back I [decided for myself](https://www.disfinder.com/docs/articles/ground-rules/#%D0%BA%D0%B5%D1%88%D0%B1%D0%B5%D0%BA) that the extra effort of tracking cashback isn't worth it.
+A while back I [decided for myself](/en/docs/articles/ground-rules/) that the extra effort of tracking cashback isn't worth it.
 And the feeling that someone is trying to confuse me with these cash-to-points conversions, make me think about it and crave it — that's a game I have no interest in playing as a lab rat.
 
 And although I'll probably lose some benefits (plus the flexibility of paying the credit card within 50 days instead of on the day of the charge), I don't want to support such murky schemes with my own money.

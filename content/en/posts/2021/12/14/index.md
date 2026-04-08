@@ -22,7 +22,7 @@ I wouldn't call myself a prolific writer of useful manuals, but I am a big fan o
 ## An Example of an Article for "Lifelong" Additions
 
 At some point I caught myself thinking that not all people — even those with a substantial shared background (such as work, education, and common interests) — actually share a large common context. Simply put, not everyone knows what you know. At the everyday level that's not such a big deal — so someone hasn't read The Golden Calf, fine — but at the work level you expect engineers to be aware of certain significant, noteworthy notes/publications/know-how, and it turns out they're not.
-That's why I started a [simple (and still very short) list](https://www.disfinder.com/docs/articles/must-read/) called "Must Read", and I want to collect genuinely worthwhile pieces of information there.
+That's why I started a [simple (and still very short) list](/en/docs/articles/must-read/) called "Must Read", and I want to collect genuinely worthwhile pieces of information there.
 If you have time and know how to make pull requests — [join in](https://github.com/disfinder/disfinder.github.io/blob/main/content/ua/docs/articles/must-read/index.md) — I'd love to hear your recommendations. And if you don't know how or just can't be bothered — join in the comments (:
 
 {{< hint info >}}

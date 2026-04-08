@@ -11,7 +11,7 @@ tags:
 ---
 What would we do without updates.
 <!--more-->
-When I was writing [the article about flashlights](/docs/projects/hardware-tools/flashlights/), I forgot how to use expand to hide images that aren't really necessary, so I went digging through the documentation.
+When I was writing [the article about flashlights](/en/docs/projects/hardware-tools/flashlights/), I forgot how to use expand to hide images that aren't really necessary, so I went digging through the documentation.
 The documentation said "do it like this," and Hugo said "quack" and couldn't render it.
 
 So I went to update the theme — Hugo said ["I'm too old for this shit"](https://www.reddit.com/r/movies/comments/gxpw6h/im_too_old_for_this_shit_the_movie_supercut/) and wanted to update itself.
