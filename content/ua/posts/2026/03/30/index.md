@@ -6,7 +6,7 @@ categories:
     - diary
 tags:
     - some
-publishDate: 2026-05-10
+publishDate: 2028-05-10
 ---
 before cut
 <!--more-->
