@@ -156,7 +156,7 @@ At least no surprises here — files and folders, just like the web interface. I
 
 ## Outro
 
-This takeout was initiated while writing an [article about backups](/docs/articles/backup/) and provided some food for thought and material to work with.
+This takeout was initiated while writing an [article about backups](/en/docs/articles/backup/) and provided some food for thought and material to work with.
 I started writing this post on December 28, 2023, and finished it on January 15, 2024 — and there's still more that could be added, but the steam has run out for now.
 At the very least, it's now clear what Google has and where it lives — and more importantly, what can be deleted.
 Stay tuned.

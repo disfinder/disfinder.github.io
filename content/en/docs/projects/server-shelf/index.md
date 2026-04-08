@@ -23,7 +23,7 @@ categories:
 
 A cabinet, not a wardrobe — because he's a boy.
 <!--more-->
-Since [I recently bought a server rack](/posts/2024/04/17/server-rack/), the next steps will be:
+Since [I recently bought a server rack](/en/posts/2024/04/17/server-rack/), the next steps will be:
 
 - wash the cabinet that had been collecting dust at a flea market for a long time
 - find a suitable place for it

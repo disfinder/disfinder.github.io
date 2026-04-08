@@ -47,7 +47,7 @@ The freshly installed new major version shows that there's an even newer minor v
 ## Checking the photos
 
 One of the breaking changes in this update was the replacement of the Moments component (or whatever you call these internal Synology products) with Photos.
-I was using Moments [as a backup for photos from my phones](/docs/articles/backup/) — an app on the phone that periodically uploads photos to the NAS.
+I was using Moments [as a backup for photos from my phones](/en/docs/articles/backup/) — an app on the phone that periodically uploads photos to the NAS.
 The replacement was mentioned in the release notes, and overall the migration went smoothly. The old app on the phone now says "I won't work, press the button to install the new one" and links to the Play Store/App Store, old photos were transferred and new ones are being added.
 Phew, the biggest headache is behind us.
 (oh, only now I realized I didn't back up the photos before updating)

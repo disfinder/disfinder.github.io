@@ -23,6 +23,6 @@ It seemed like there should be something similar for inventorying physical objec
 
 And then one day, while working on a somewhat different project — specifically, offloading information into a `second brain` using [Obsidian](https://obsidian.md/) — I accidentally stumbled upon a solution to the inventory problem using that very tool.
 
-The idea appealed to me so much that I ended up creating several catalogs for myself, and even wrote it all up in a [separate article](/docs/articles/obsidian-catalog/).
+The idea appealed to me so much that I ended up creating several catalogs for myself, and even wrote it all up in a [separate article](/en/docs/articles/obsidian-catalog/).
 
 ![catalogs](image.png)

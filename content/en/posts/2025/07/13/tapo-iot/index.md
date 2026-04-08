@@ -11,7 +11,7 @@ tags:
 ---
 I've started to get a clearer picture of what IoT/smart home can actually do for you.
 <!--more-->
-Since the [Tardis](/docs/projects/tardis/) project (currently unfinished) is somewhat dangerous — printers in a closed cabinet can overheat and potentially even cause a fire — there's a need for monitoring and control.
+Since the [Tardis](/en/docs/projects/tardis/) project (currently unfinished) is somewhat dangerous — printers in a closed cabinet can overheat and potentially even cause a fire — there's a need for monitoring and control.
 
 ![sensors](image.png)
 ![sensors 2](image-6.png)
@@ -61,4 +61,4 @@ And also: if the freezer temperature rises above (say) -10°C while the outlet i
 
 There's also a door/window open sensor — you can configure it so that if a child opens a cabinet door, it sends a notification and/or triggers a siren, but that's for another time.
 
-Oh, and [a camera as a replacement for the broken one](/posts/2025/07/13/printer-camera/) — that's part of the same story.
+Oh, and [a camera as a replacement for the broken one](/en/posts/2025/07/13/printer-camera/) — that's part of the same story.

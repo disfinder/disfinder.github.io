@@ -11,7 +11,7 @@ tags:
     - malfunction
 ---
 
-Not even a year and a half had passed since I became a happy owner of a [home server](/posts/2019/12/04) from Synology, and it already went belly up.
+Not even a year and a half had passed since I became a happy owner of a [home server](/en/posts/2019/12/04) from Synology, and it already went belly up.
 <!--more-->
 I'll start with a spoiler — it's not a total disaster, and the data is intact. The server itself, though, not so much.
 
@@ -41,4 +41,4 @@ Good thing the drives with the data are intact. Seems like it's finally time to 
 
 ## Update 2024
 
-What and how I ended up backing up (and whether there's a backup NAS) can be read on a separate page for the [backup project](/docs/projects/backup/).
+What and how I ended up backing up (and whether there's a backup NAS) can be read on a separate page for the [backup project](/en/docs/projects/backup/).

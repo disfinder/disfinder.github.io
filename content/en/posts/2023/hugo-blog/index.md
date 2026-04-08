@@ -30,7 +30,7 @@ Quite a while ago I came to the conclusion that a blog and its posts work well f
 - [Oops, my server crashed...](https://p.disfinder.com/2021/02/blog-post_22.html)
 - [Today I thought that writing articles is better done in git, not in a blog](https://p.disfinder.com/2021/12/blog-post.html)
 
-But for some meaningful chunk of information — like that example with the [list of books and articles I strongly recommend reading](/docs/articles/must-read/) — it's not very convenient to have it as a blog post dated back to some shaggy [2012-06-4], share links to it, and update/expand the post over time.
+But for some meaningful chunk of information — like that example with the [list of books and articles I strongly recommend reading](/en/docs/articles/must-read/) — it's not very convenient to have it as a blog post dated back to some shaggy [2012-06-4], share links to it, and update/expand the post over time.
 
 ## Okay, GitHub Pages seems made for articles
 

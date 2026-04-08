@@ -9,7 +9,7 @@ tags:
     - r:eviewed
 ---
 
-In the 8 days since [starting to create a local repository](/posts/2011/05/11-llvm/), 39 gigabytes have been downloaded and it has reached the letter **L** in the largest repository **universe**.
+In the 8 days since [starting to create a local repository](/en/posts/2011/05/11-llvm/), 39 gigabytes have been downloaded and it has reached the letter **L** in the largest repository **universe**.
 
 It's rough living with a slow internet connection. And mostly it's because after every disconnection the download stops and only resumes
 a) manually
