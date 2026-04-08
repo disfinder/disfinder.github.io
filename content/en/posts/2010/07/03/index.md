@@ -1,0 +1,32 @@
+---
+title: "What to install after setting up Linux Mint"
+date: "2010-07-03T23:04:00.003Z"
+categories:
+    - diary
+    - p.disfinder.com
+tags:
+    - imported
+    - r:eviewed
+    - linux
+---
+
+- yakuake
+- krusader
+- kvpnc
+- audacious
+- dropbox
+- teamViewer
+
+- keepasx
+- gPodder
+- opera
+- choqok
+- qutim
+- alltray
+- archivers
+
+- htop
+- vlock
+- tcsh
+
+- Firefox plugins
