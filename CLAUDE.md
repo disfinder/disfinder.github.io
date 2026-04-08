@@ -112,6 +112,10 @@ ln -s "../../../ua/static/img/images" "content/en/static/img/images"
 find content/en -type l | while read f; do [ ! -e "$f" ] && echo "BROKEN: $f"; done
 ```
 
+## Git
+
+**Do not create git commits autonomously.** Only commit when the user explicitly asks you to.
+
 ## Hugo
 
 Build: `hugo`
