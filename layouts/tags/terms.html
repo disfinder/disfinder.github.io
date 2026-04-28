@@ -1,13 +1,29 @@
 {{ define "main" }}
 <article class="markdown book-article">
   <h1>Tags</h1>
-  <ul>
-    {{ range .Data.Terms.Alphabetical }}
-    <li>
-      <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
-      ({{ .Count }})
-    </li>
+
+  <p>
+    <button onclick="show('by-count')" id="btn-count">By count</button>
+    <button onclick="show('alphabetical')" id="btn-alpha">Alphabetical</button>
+  </p>
+
+  <ul id="by-count">
+    {{ range .Data.Terms.ByCount }}
+    <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a> ({{ .Count }})</li>
     {{ end }}
   </ul>
+
+  <ul id="alphabetical" style="display:none">
+    {{ range .Data.Terms.Alphabetical }}
+    <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a> ({{ .Count }})</li>
+    {{ end }}
+  </ul>
+
+  <script>
+    function show(id) {
+      document.getElementById('by-count').style.display = id === 'by-count' ? '' : 'none';
+      document.getElementById('alphabetical').style.display = id === 'alphabetical' ? '' : 'none';
+    }
+  </script>
 </article>
 {{ end }}
