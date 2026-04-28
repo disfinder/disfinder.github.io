@@ -5,6 +5,6 @@ menu:
     name: blog@disfinder.com
     # name: blog
     weight: 300
-title: Блог на Hugo 📝 ->
+title: Впихнуть невпихуємоє (блог)
 ---
 

@@ -11,14 +11,14 @@ bookToc: false
 🇺🇸 For english version [click here](en/)
 
 ### Навігація по цьому сайту
-- [Блог на Hugo 📝](/posts)
+- [Впихнуть невпихуємоє (Блог на Hugo 📝)](/posts)
 ----
 - [статті](/docs/articles)
 - [записки](/docs/notes)
 - [блог](/posts)
   - [категорії](/categories)
     - [технічні дописи](/categories/technical/)
-    - [щоденник](/categories/technical/)
+    - [щоденник](/categories/diary/)
   - [теги](/tags)
 
 ### Посилання
