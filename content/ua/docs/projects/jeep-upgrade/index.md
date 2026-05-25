@@ -1,6 +1,6 @@
 ---
 title: "Best Choice Jeep Upgrade"
-weight: 0070
+weight: 70
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false

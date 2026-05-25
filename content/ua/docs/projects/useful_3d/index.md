@@ -1,6 +1,6 @@
 ---
 title: "Корисні/цікаві 3D моделі"
-weight: 0110
+weight: 110
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false

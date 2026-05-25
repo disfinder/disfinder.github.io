@@ -1,6 +1,6 @@
 ---
 title: "Серверний шкаф"
-weight: 0060
+weight: 60
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false

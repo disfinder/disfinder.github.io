@@ -1,6 +1,6 @@
 ---
 title: "Мої бекапи"
-weight: 0050
+weight: 50
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
