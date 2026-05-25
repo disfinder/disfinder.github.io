@@ -1,5 +1,5 @@
 baseURL: 'https://www.disfinder.com'
-languageCode: 'uk-ua'
+locale: 'uk-ua'
 title: 'disfinder.com 🇺🇦'
 theme: hugo-book
 
@@ -19,22 +19,22 @@ defaultContentLanguage: ua
 languages:
   ua:
     disabled: false
-    languageCode: "uk-UA"
+    locale: "uk-UA"
     languageDirection: ""
-    languageName: "🇺🇦Ukrainian"
+    label: "🇺🇦Ukrainian"
     # title: "Ukraine"
     weight: 1
     contentDir: content/ua
   ru:
     contentDir: content/ru
     weight: 3
-    languageName: "rUꞨꞨIAN"
+    label: "rUꞨꞨIAN"
 
   en:
     disabled: false
-    languageCode: "en-US"
+    locale: "en-US"
     languageDirection: ""
-    languageName: "🇺🇸English"
+    label: "🇺🇸English"
     title: "disfinder.com 🇺🇸"
     weight: 2
     contentDir: content/en
