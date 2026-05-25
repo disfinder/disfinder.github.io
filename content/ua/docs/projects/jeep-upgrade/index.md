@@ -8,14 +8,16 @@ weight: 70
 # bookComments: false
 # bookSearchExclude: false
 date: 2024-04-22T19:57:21-04:00
-
+categories:
+    - projects
 tags:
     - jeep
     - toy
     - kids
     - hardware
 ---
-Дитяча машинка, на якій можна їздити.  
+<!--more-->
+# Дитяча машинка, на якій можна їздити.  
 
 ## Wheels/tires
 

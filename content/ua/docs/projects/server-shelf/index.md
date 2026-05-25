@@ -15,9 +15,9 @@ tags:
 categories:
     - projects
 ---
-|||
-| --- | ---- |
-|Status|❌Cancelled|
+<!--more-->
+| Status | ❌Cancelled |
+| ------ | ---------- |
 
 ## Have you met ~~Ted~~ Verter ?
 

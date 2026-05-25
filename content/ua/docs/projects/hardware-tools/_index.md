@@ -9,7 +9,8 @@ bookCollapseSection: false
 # bookSearchExclude: false
 date: 2024-01-06T21:20:06-05:00
 ---
-> Від обценьок до серверів
+<!--more-->
+# Від обценьок до серверів
 
 {{< section >}}
 

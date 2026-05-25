@@ -8,8 +8,11 @@ weight: 50
 # bookComments: false
 # bookSearchExclude: false
 date: 2023-12-28T17:20:27-05:00
----
+categories:
+    - projects
 
+---
+<!--more-->
 {{< hint warning >}}
 # УВАГА
 ця стаття - ще у процесі написання.
