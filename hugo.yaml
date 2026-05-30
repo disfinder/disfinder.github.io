@@ -40,6 +40,14 @@ languages:
     contentDir: content/en
 
 menu:
+  before:
+    - name: HOUSE.md
+      url: /docs/projects/house/
+      weight: 1
+      # pre: 'THE-'
+      # pre: <i class="fa fa-heart"></i>
+      # post: ''
+      # post: "<img src='/awesome-font/svgs/solid/external-link-alt.svg' style='height: 15px; width: 15px;'>"
   after: []
     # - name: '----------------------------'
     #   url: /
