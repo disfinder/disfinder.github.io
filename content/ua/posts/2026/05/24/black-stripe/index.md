@@ -4,7 +4,8 @@ weight: 10
 date: 2026-05-24T23:14:37-04:00
 categories:
     - diary
-tags: []
+tags:
+    - darkness
 ---
 Чи вже жопа?
 <!--more-->
