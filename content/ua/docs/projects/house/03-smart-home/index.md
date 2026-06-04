@@ -1,6 +1,6 @@
 ---
 title: "Розумний дім"
-weight: 10
+weight: 30
 date: 2026-05-12
 categories:
     - projects
@@ -12,7 +12,7 @@ tags:
 
 # Розумний дім або "Датчики і світчики"
 
-| Status | ⏳ progressing    |
+| Status | 📈 progressing    |
 | ------ | ---------------- |
 | tag    | [iot](/tags/iot) |
 

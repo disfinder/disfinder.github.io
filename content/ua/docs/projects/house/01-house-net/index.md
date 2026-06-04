@@ -12,7 +12,7 @@ tags:
 <!--more-->
 # Домашня мережа
 
-| Status | ⏳ progressing |
+| Status | 📈 progressing |
 | ------ | ------------- |
 
 ## Мета

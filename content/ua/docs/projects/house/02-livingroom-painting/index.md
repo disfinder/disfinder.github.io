@@ -1,6 +1,6 @@
 ---
 title: "Пофарбувати вітальню"
-weight: 10
+weight: 20
 date: 2026-05-12
 categories:
     - projects
