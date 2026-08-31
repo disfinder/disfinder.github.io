@@ -22,6 +22,7 @@ languages:
     locale: "uk-UA"
     languageDirection: ""
     label: "🇺🇦Ukrainian"
+    languageName: "🇺🇦Ukrainian"
     # title: "Ukraine"
     weight: 1
     contentDir: content/ua
@@ -29,12 +30,14 @@ languages:
     contentDir: content/ru
     weight: 3
     label: "rUꞨꞨIAN"
+    languageName: "rUꞨꞨIAN"
 
   en:
     disabled: false
     locale: "en-US"
     languageDirection: ""
     label: "🇺🇸English"
+    languageName: "🇺🇸English"
     title: "disfinder.com 🇺🇸"
     weight: 2
     contentDir: content/en
