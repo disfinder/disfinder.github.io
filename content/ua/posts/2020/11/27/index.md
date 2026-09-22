@@ -8,7 +8,7 @@ tags:
     - imported
     - r:eviewed
     - shopping
-    - smarthome
+    - smart-home
 ---
 Ця історія починається в сусідському туалеті.
 <!--more-->

@@ -8,7 +8,7 @@ tags:
     - imported
     - r:eviewed
     - shopping
-    - smarthome
+    - smar-home
 ---
 This story begins in a neighbor's bathroom.
 <!--more-->
