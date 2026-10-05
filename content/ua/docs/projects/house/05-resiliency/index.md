@@ -26,7 +26,7 @@ tags:
 - [ ] cіль (скільки?) (де зберігати)
 - [ ] tarps with grommets - to cover a house/garage
 - [ ] strong bungee cords - to fix tarps
-
+- [ ] CO2 sensor for furnace room
 ### Зробити
 - [ ] перекрити воду у кранах garden hose
 - [ ] поставити датчики температури на горище?
@@ -40,6 +40,7 @@ tags:
 - [ ] розкидати сіль
     де зберігати?
 - [ ] відкидати сніг
+- [ ] drip water from faucets when it is too cold
 
 
 ## Power outage
