@@ -43,6 +43,11 @@ date: 2024-01-06T21:20:06-05:00
 
 {{< img-thumb-cap "tools/dewalt-drills.png" "200x" >}}{{</ img-thumb-cap >}}
 
+### Dremel. Справжній
+{{< img-thumb-cap "tools/dremel/dremel-box.png" "200x" >}}{{</ img-thumb-cap >}}
+{{< img-thumb-cap "tools/dremel/dremel-open.png" "200x" >}}{{</ img-thumb-cap >}}
+
+
 ## Кемпінг
 
 Взагалі у [статей про кемпінг є свій тег](/tags/camping/).
