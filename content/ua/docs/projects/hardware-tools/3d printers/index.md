@@ -35,3 +35,24 @@ date: 2024-01-06T21:20:06-05:00
 {{< img-thumb-cap "3d_printers/eva/dyson-nozzle.png" "200x" >}}Dyson nozzle{{</ img-thumb-cap >}}
 І із тим, що потягнув - впоралася впʼятеро швидше.
 {{< img-thumb-cap "3d_printers/eva/propeller.png" "200x" >}}propeller{{</ img-thumb-cap >}}
+
+## Babmulab X1 Carbon
+
+Побачивши які чудеса творить цей дрібний принтер, я вмовив свою жабу на Бамбушний флагман - X1 Carbon.
+
+Жаба була потужна, бо разом із АМС (а чому ж купляти без?) воно коштувало майже півтора косаря!
+
+{{< img-thumb-cap "3d_printers/calculon/x1c-002.png" "200x" >}}{{</ img-thumb-cap >}}
+
+А разом зі всякою дрібнотою та податками взагалі потягнуло на $1600+
+
+Однак це вже серйозна CoreXY машина із повністю закритим друкованим простором (enclosure), здатна друкувати інженерні пластики, складні задачі і все таке інше.
+
+{{< img-thumb-cap "3d_printers/calculon/x1c-001.png" "200x" >}}{{</ img-thumb-cap >}}
+
+Найбільша біда - немає місця.
+
+Однак після [покупки Tardis](docs/projects/tardis/) [Калкулону](https://futurama.fandom.com/wiki/Calculon) (а тепер хоч не хоч а треба продовжувати називати принтери іменами роботів) знайшлося краще місце.
+
+
+{{< img-thumb-cap "3d_printers/calculon/x1c-003.png" "200x" >}}{{</ img-thumb-cap >}}
